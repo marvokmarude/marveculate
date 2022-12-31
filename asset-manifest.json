@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marveculate_repo/static/css/main.264cc6f0.css",
+    "main.js": "/marveculate_repo/static/js/main.c9b8e183.js",
+    "index.html": "/marveculate_repo/index.html",
+    "main.264cc6f0.css.map": "/marveculate_repo/static/css/main.264cc6f0.css.map",
+    "main.c9b8e183.js.map": "/marveculate_repo/static/js/main.c9b8e183.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264cc6f0.css",
+    "static/js/main.c9b8e183.js"
+  ]
+}
